@@ -1,0 +1,5 @@
+venv/*
+.python-version
+config.yml
+__pycache__
+sessions
