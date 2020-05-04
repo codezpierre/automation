@@ -71,10 +71,10 @@ python3 best_buy.py [target product] [recipient phone number]
 
 ### Macro Map
 
-`grey`: <https://www.bestbuy.com/site/nintendo-switch-32gb-console-gray-joy-con/6364253.p?skuId=6364253>
-`neon`: <https://www.bestbuy.com/site/nintendo-switch-32gb-console-neon-red-neon-blue-joy-con/6364255.p?skuId=6364255>
-`ac`: <https://www.bestbuy.com/site/nintendo-switch-animal-crossing-new-horizons-edition-32gb-console-multi/6401728.p?skuId=6401728>,
-`test`: <https://www.bestbuy.com/site/animal-crossing-new-horizons-nintendo-switch/5723316.p?skuId=5723316>
+- `grey`: <https://www.bestbuy.com/site/nintendo-switch-32gb-console-gray-joy-con/6364253.p?skuId=6364253>
+- `neon`: <https://www.bestbuy.com/site/nintendo-switch-32gb-console-neon-red-neon-blue-joy-con/6364255.p?skuId=6364255>
+- `ac`: <https://www.bestbuy.com/site/nintendo-switch-animal-crossing-new-horizons-edition-32gb-console-multi/6401728.p?skuId=6401728>,
+- `test`: <https://www.bestbuy.com/site/animal-crossing-new-horizons-nintendo-switch/5723316.p?skuId=5723316>
 
 ### Extensibility
 
